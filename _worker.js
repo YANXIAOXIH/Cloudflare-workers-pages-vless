@@ -762,5 +762,5 @@ ${pvlesswstls}
   }
 }
 const cn_hostnames = [
-'www.wto.org'
+'www.speedtest.cn'
 ];
